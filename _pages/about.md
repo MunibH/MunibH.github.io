@@ -12,6 +12,6 @@ phd student in the [Economo Lab](https://economolab.org/)
 
 studying motor neuroscience
 
-how to insert an image:
+<center> Look at this nice picture, Yosemite National Park 2021 </center>
 ![How to insert an image](/images/yosemite_trees.jpg)
 
