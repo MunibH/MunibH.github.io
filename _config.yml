@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "munib hasnain"
   avatar           : "profilepic.jpg"
-  bio              : "phd student, motor neuroscience"
+  bio              : "phd student"
   location         : "Boston, United States"
   employer         : "Boston University"
   pubmed           : 
@@ -170,7 +170,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  # enable_coderay: false
 
 
 # Collections
