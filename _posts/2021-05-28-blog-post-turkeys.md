@@ -18,3 +18,7 @@ tags:
 
 ## Turkey 3: 42°20'43.1"N 71°06'37.4"W
 ![Turkeys crossing beacon st near amory playground](/images/turkey3.gif)
+
+## Turkey 4: 42°20'38.8"N 71°06'52.6"W
+![2 Turkeys today!](/images/turkey4_1.jpg)
+![2 Turkeys today!](/images/turkey4_2.jpg)
