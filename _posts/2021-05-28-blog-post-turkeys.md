@@ -22,3 +22,6 @@ tags:
 ## Turkey 4: 42°20'38.8"N 71°06'52.6"W
 ![2 Turkeys today!](/images/turkey4_1.jpg)
 ![2 Turkeys today!](/images/turkey4_2.jpg)
+
+## Turkey 5: 42°20'54.4"N 71°06'07.2"W
+![staring into my soul](/images/turkey5.jpg)
