@@ -25,3 +25,6 @@ tags:
 
 ## Turkey 5: 42°20'54.4"N 71°06'07.2"W
 ![staring into my soul](/images/turkey5.jpg)
+
+## Turkey 6: 42°20'48.7"N 71°06'52.4"W
+![at amory park in brookline](/images/turkey6.jpg)
