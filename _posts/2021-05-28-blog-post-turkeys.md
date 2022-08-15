@@ -31,6 +31,9 @@ tags:
 ## Turkey 6: 42°20'48.7"N 71°06'52.4"W
 ![at amory park in brookline](/images/turkey6.jpg)
 
-## Turkey 6: 42°20'16.0"N 71°08'34.8"W
+## Turkey 7: 42°20'16.0"N 71°08'34.8"W
 ![checking the mail](/images/turkey7.jpg)
+
+## Turkey 8: 42°20'49.1"N 71°06'25.5"W
+![st mary's st close to bu](/images/turkey8.jpg)
 
